@@ -28,6 +28,15 @@ Based on the security system, we can able to modify the type of alert we get onc
 1. A door sensor lets you know if someone enters your house.
 2. You can also set it to emit an alarm that deters someone from entering.
 
+# High Level Requirements
+ * Proximity Sensor interfacing with ATMEGA328
+ * LED Bulb interfacing
+# Low Level Requirements
+ * Able to detect nearby objects with proximity sensor
+ * proximity sensor with ATMEGA328
+ * Door close or open 
+ * LED activated Blinks 
+
 # BLOCK DIAGRAM:
 ![Door Sensor block diagram](https://user-images.githubusercontent.com/101619680/164507675-d156a31e-8f50-4ffb-8da7-e5534afe5c59.png)
 
