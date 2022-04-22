@@ -1,4 +1,4 @@
-# OBJECTIVE OF THIS PROJECT:
+# OBJECTIVE:
 An  Door Opener System is a simple project based on PROXIMITY Sensor and atmega328p, which automatically opens and closes the door by detecting a person or object.
 
 # INTRODUCTION:
@@ -78,3 +78,6 @@ Based on the security system, we can able to modify the type of alert we get onc
 ![OFF MODE](https://user-images.githubusercontent.com/101619680/164508488-3ddbe5f8-25fd-4cb8-9f19-af29bcad3520.png)
 # * ON CONDITION:
 ![ON MODE](https://user-images.githubusercontent.com/101619680/164508574-bc06b492-6e78-4a3a-8c7f-2e2f57b109c1.png)
+
+#Reference:
+https://create.arduino.cc/projecthub/Vijendra/how-to-make-arduino-based-automatic-door-opening-3eb5cc
