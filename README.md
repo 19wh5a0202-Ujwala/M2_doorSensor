@@ -1,6 +1,6 @@
 # M2_doorSensor
 
-#BADGES
+# BADGES
 
 [![C/C++ CI](https://github.com/19wh5a0202-Ujwala/M2_doorSensor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M2_doorSensor/actions/workflows/c-cpp.yml)
 
