@@ -10,19 +10,20 @@ sensors use a reed switch & a magnet to decide the status of a door whether it i
 Based on the security system, we can able to modify the type of alert we get once a door opens. We may select a clear alarm for sound whenever a door opens or we can choose a LED blinking light.
 
 # COMPONENTS AND SUPPLIES:
-1.atmega328p 
 
-2.LED bulb 
+1.atmega328 : ATmega328 is an Advanced Virtual RISC (AVR) microcontroller. It supports 8-bit data processing. ATmega-328 has 32KB internal flash memory.ATmega328 has 1KB Electrically Erasable Programmable Read-Only Memory (EEPROM). 
 
-3.Connecting Wires
+2.LED bulb : A Light Emitting Diode (LED) is a special type of PN junction diode. The light emitting diode is specially doped and made of a special type of semiconductor. This diode can emit light when it is in the forward biased state. Aluminum indium gallium phosphide (AlInGaP) and indium gallium nitride (InGaN) are two of the most commonly used semiconductors for LED technologies.
 
-4.Resistors
+3.Connecting Wires : It may be used to correct problems on a printed circuit board where insulation may not be a problem. It may also be used in areas where sleeving may be slid over the wire to protect it from causing shorts, or it may be used in areas where it is not possible to cause short circuits.
 
-5.5V Rail
+4.Resistors : A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
 
-6.Switch
+5.5V Rail : Anyway the 5V rail supplies power to many things like: USB, PS/2 (mouse & kbd), PCI headers and, very important, to all the storage devices (HDU, floppy, CD/DVD).
 
-7.Proximity sensor
+6.Switch : switch is an electrical component that can disconnect or connect the conducting path in an electrical circuit, interrupting the electric current or diverting it from one conductor to another.The most common type of switch is an electromechanical device consisting of one or more sets of movable electrical contacts connected to external circuits.
+
+7.Proximity sensor : A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact.A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation (infrared, for instance), and looks for changes in the field or return signal. The object being sensed is often referred to as the proximity sensor's target. Different proximity sensor targets demand different sensors. For example, a capacitive proximity sensor or photoelectric sensor might be suitable for a plastic target; an inductive proximity sensor always requires a metal target.
 
 # ADVANTAGES:
 1. A door sensor lets you know if someone enters your house.
